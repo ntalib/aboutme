@@ -1,6 +1,6 @@
 - 👋 Hi, Nice to meet you! I’m @ninatalib 
 - 👀 I’m interested in all IOT, processes, streamline, aesthetics, hoarding and cleaning data
-- 🌱 I’m currently learning ML, AWS and data lakes
+- 🌱 I’m currently learning ML, Cloud Computing, AWS and data lakes
 - 💞️ I’m looking to collaborate on ...TBD
 - 📫  You can connect with me through my email >>> ninatalebw@gmail.com 
 
